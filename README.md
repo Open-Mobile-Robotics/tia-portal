@@ -37,3 +37,9 @@ https://support.industry.siemens.com/cs/document/109740151/machine-and-plant-dia
 OPC-UA
 
 https://support.industry.siemens.com/cs/document/109755133/siemens-opc-ua-modeling-editor-(siome)?dti=0&lc=en-US
+
+Hemp Robot Winder
+
+
+
+https://support.industry.siemens.com/cs/document/38043750/sinamics-dcc-winder?dti=0&lc=en-US
