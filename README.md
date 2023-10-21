@@ -60,3 +60,7 @@ https://support.industry.siemens.com/cs/document/109810533/siberprotect%C2%AE-a-
 scalance best practices
 
 https://support.industry.siemens.com/cs/document/109745536/checklist-for-setting-up-scalance-devices?dti=0&lc=en-US
+
+L5X Parser
+
+https://pypi.org/project/l5x/
