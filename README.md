@@ -24,3 +24,7 @@ https://support.industry.siemens.com/cs/document/109810699/tia-portal-v17-applic
 CI/CD Pipeline
 
 https://support.industry.siemens.com/cs/document/109801203/continuous-integration-with-tia-portal?dti=0&lc=en-US
+
+Rusty
+
+https://plc-lang.github.io/rusty/
