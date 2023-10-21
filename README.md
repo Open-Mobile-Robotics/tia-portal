@@ -20,3 +20,7 @@ https://support.industry.siemens.com/cs/document/109782483/data-exchange-between
 MTP Workflow
 
 https://support.industry.siemens.com/cs/document/109810699/tia-portal-v17-application-example-with-simatic-process-function-library-v2-0-sp2?dti=0&lc=en-DE
+
+CI/CD Pipeline
+
+https://support.industry.siemens.com/cs/document/109801203/continuous-integration-with-tia-portal?dti=0&lc=en-US
