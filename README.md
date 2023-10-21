@@ -52,3 +52,7 @@ https://support.industry.siemens.com/cs/document/49972266/sinamics-s-dcc-line-te
 code2docu
 
 https://support.industry.siemens.com/cs/document/109809007/tia-portal-add-in-code2docu-for-generating-documentation?dti=0&lc=en-US
+
+gatekeeper
+
+https://support.industry.siemens.com/cs/document/109810533/siberprotect%C2%AE-a-plc-based-realtime-solution-for-cyberphysical-monitoring-and-defense?dti=0&lc=en-US
