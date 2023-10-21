@@ -53,6 +53,9 @@ https://support.industry.siemens.com/cs/document/109756217/simatic-s7-1500(t)-ls
 
 https://support.industry.siemens.com/cs/document/58565043/simatic-winder-and-tension-control?dti=0&lc=en-WW
 
+
+https://support.industry.siemens.com/cs/document/109803969/simatic-s7-1500-%E2%80%93-all-about-motion-control?dti=0&lc=en-WW
+
 code2docu
 
 https://support.industry.siemens.com/cs/document/109809007/tia-portal-add-in-code2docu-for-generating-documentation?dti=0&lc=en-US
