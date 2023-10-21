@@ -1,4 +1,4 @@
-# tia-portal
+ki# tia-portal
 TIA Portal Libraries, UDTS, Reference Projects
 
 #links
@@ -56,3 +56,7 @@ https://support.industry.siemens.com/cs/document/109809007/tia-portal-add-in-cod
 gatekeeper
 
 https://support.industry.siemens.com/cs/document/109810533/siberprotect%C2%AE-a-plc-based-realtime-solution-for-cyberphysical-monitoring-and-defense?dti=0&lc=en-US
+
+scalance best practices
+
+https://support.industry.siemens.com/cs/document/109745536/checklist-for-setting-up-scalance-devices?dti=0&lc=en-US
