@@ -33,3 +33,7 @@ https://plc-lang.github.io/rusty/
 ProDiag
 
 https://support.industry.siemens.com/cs/document/109740151/machine-and-plant-diagnostics-with-prodiag?dti=0&lc=en-US
+
+OPC-UA
+
+https://support.industry.siemens.com/cs/document/109755133/siemens-opc-ua-modeling-editor-(siome)?dti=0&lc=en-US
