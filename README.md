@@ -47,6 +47,8 @@ https://support.industry.siemens.com/cs/document/38043750/sinamics-dcc-winder?dt
 
 https://support.industry.siemens.com/cs/document/109477746/sinamics-s120-cross-cutter-application-with-dcb-extension?dti=0&lc=en-US
 
+https://support.industry.siemens.com/cs/document/49972266/sinamics-s-dcc-line-tension-control?dti=0&lc=en-US
+
 code2docu
 
 https://support.industry.siemens.com/cs/document/109809007/tia-portal-add-in-code2docu-for-generating-documentation?dti=0&lc=en-US
