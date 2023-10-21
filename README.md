@@ -40,10 +40,12 @@ OPC-UA
 
 https://support.industry.siemens.com/cs/document/109755133/siemens-opc-ua-modeling-editor-(siome)?dti=0&lc=en-US
 
-Hemp Robot Winder
+Hemp Robot 
 
 
 https://support.industry.siemens.com/cs/document/38043750/sinamics-dcc-winder?dti=0&lc=en-US
+
+https://support.industry.siemens.com/cs/document/109477746/sinamics-s120-cross-cutter-application-with-dcb-extension?dti=0&lc=en-US
 
 code2docu
 
