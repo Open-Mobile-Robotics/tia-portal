@@ -28,3 +28,8 @@ https://support.industry.siemens.com/cs/document/109801203/continuous-integratio
 Rusty
 
 https://plc-lang.github.io/rusty/
+
+water Industry
+
+https://support.industry.siemens.com/cs/document/109748869/plant-wide-automation-in-the-water-industry?dti=0&lc=en-US
+ht
